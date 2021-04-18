@@ -1,2 +1,2 @@
 # massunban
-to run, delete this file and run the code. that simple!
+Simple JS mass-unban i coded in a few mins, very fast and effective!
